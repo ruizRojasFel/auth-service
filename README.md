@@ -16,4 +16,4 @@
 
 ---
 
-Copyright © 2026 Felipe Andrés Ruiz Rojas. All rights reserved.
+Copyright © 2026 Felipe Andrés Ruiz Rojas.
