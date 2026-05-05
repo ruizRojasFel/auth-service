@@ -1,16 +1,15 @@
 
 ---
 
-## Desarrollador
+## Developer
 
-### **Felipe Andrés Ruiz Rojas**
-
+**Felipe Andrés Ruiz Rojas**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felandres-blue?logo=linkedin)](https://www.linkedin.com/in/felandres)
 [![Website](https://img.shields.io/badge/Website-%40felruiz--dev-lightblue)](https://felruiz-dev.vercel.app/)
 
 ---
 
-## Licencia
+## License
 
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/ruizRojasFel/front-api-microservicios?tab=MIT-1-ov-file)
 
