@@ -1,7 +1,5 @@
 ---
 
----
-
 ## Desarrollador
 
 **Felipe Andrés Ruiz Rojas**
